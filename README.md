@@ -1,10 +1,7 @@
 # gelismis-hesap-makinesi
 Gelişmiş hesap makinesi uygulaması - Python ve Math modülü kullanıldı
-# Gelişmiş Hesap Makinesi
 
-Python kullanarak geliştirilen komut satırı tabanlı bir hesap makinesi.
-
-## 🧮 Özellikler:
+Özellikler:
 
 - Toplama
 - Çıkarma
@@ -17,12 +14,12 @@ Python kullanarak geliştirilen komut satırı tabanlı bir hesap makinesi.
 - Logaritma işlemi (log10)
 - Menü destekli ve kullanıcı dostu arayüz
 
-## 🔧 Kullanılan Modüller:
+Kullanılan Modüller:
 
 - `math`
 - `time`
 
-## 🚀 Nasıl Çalıştırılır?
+Nasıl Çalıştırılır?
 
 Python 3 yüklü bir sistemde terminale şunu yaz:
 
