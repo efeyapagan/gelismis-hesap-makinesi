@@ -28,7 +28,7 @@ python gelişmiş hedap makinesi.py
 Not: Kod PyCharm veya VS Code gibi editörlerde de çalıştırılabilir.
 
 
-🧮 Features:
+Features:
 Addition
 
 Subtraction
